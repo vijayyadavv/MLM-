@@ -83,7 +83,6 @@ const Login = () => {
         </div>
 
         {/* button */}
-
         <button
           className="border border-white rounded-xl bg-blue-700 hover:text-black text-white hover:bg-white  px-8 py-[1.8px] m-4"
           onClick={collectData}
